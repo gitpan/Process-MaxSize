@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Process-MaxSize
+version:             0.01
+abstract:            Restart processes when they exceed a size limit
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.31
+distribution_type:   module
+requires:     
+    Log::Log4perl:                 1
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+author:
+    - Mike Schilli <m@perlmeister.com>
