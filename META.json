@@ -4,7 +4,7 @@
       "Mike Schilli <m@perlmeister.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "unknown"
    ],
@@ -42,5 +42,5 @@
          "url" : "http://github.com/mschilli/process-maxsize-perl"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
